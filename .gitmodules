@@ -17,3 +17,8 @@
 	path = ingadhoc/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 13.0
+
+[submodule "ingadhoc/account-payment"]
+	path = ingadhoc/account-payment
+	url = git@github.com:ingadhoc/account-payment.git
+	branch = 13.0
